@@ -6,10 +6,15 @@ Motion Field是一个帮助设计师管理工程文件的脚本工具集
 
 ---
 
+## ✨使用教程✨
+https://www.bilibili.com/video/BV11U4y1u7xG
+
+
+
+
 ## ✨下载✨
 
-国内下载：https://pan.baidu.com/s/1dvWOQKGvQaLP2VtryE2EUg 
-提取码：fha1 
+国内下载：https://pan.baidu.com/s/1dvWOQKGvQaLP2VtryE2EUg   提取码：fha1 
 
 
 
