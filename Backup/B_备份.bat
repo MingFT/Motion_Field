@@ -16,7 +16,7 @@ set str=%str: =%
 set timest=%date:~0,4%_%date:~5,2%%date:~8,2%_%str%-%time:~3,2%-%time:~6,2%
 
 ::开始备份
-robocopy "%cd%\..\.." "%L1%\%upp%\backup_%timest%\%upp%" /MIR /MT:16 /R:1 /W:1 /TEE /LOG:log.txt
+robocopy "%cd%\..\.." "%L1%\%upp%\backup_%timest%\%upp%" /MIR /MT:32 /R:1 /W:1 /TEE /LOG:log.txt
 
 ::把备份日志，移动到同步文件夹
 move "log.txt" "%L1%\%upp%\backup_%timest%\%upp%\log.txt"
