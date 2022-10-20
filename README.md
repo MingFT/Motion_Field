@@ -101,10 +101,3 @@ Github下载
 [ntop](https://github.com/gsass1/NTop)
 
 [imagemagick](https://imagemagick.org/)
-
-
-
-## ✨贡献名单✨
-[大明MingFT](https://www.artstation.com/ming-ft)
-
-[Dylan dong](https://www.behance.net/824933998f700)
