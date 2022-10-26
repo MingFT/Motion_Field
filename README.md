@@ -35,31 +35,26 @@ https://www.bilibili.com/video/BV11U4y1u7xG
 ## ✨功能展示✨
 
 #### ✔一键部署  工程目录
-![部署](public/部署.webp)
 
 ---
 
 #### ✔一键 快速打开文件夹
-![快速打开](public/快速打开.webp)
 
 ---
 
 #### ✔一键备份  整个工程
-![备份](public/备份.webp)
 
 ---
 
 
 
 #### ✔Blender批量渲染
-![渲染](public/渲染.webp)
 
 ---
 
 
 
 #### ✔视频＆图片 格式转换
-<img src="public/转换2.webp" alt="转换2" style="zoom:67%;" /><img src="public/转换1.webp" alt="转换1" style="zoom:67%;" />
 
 
 
@@ -68,7 +63,6 @@ https://www.bilibili.com/video/BV11U4y1u7xG
 
 
 #### ✔点对点 大文件传输
-![传输](public/传输.webp)
 
 ---
 
