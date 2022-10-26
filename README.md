@@ -14,20 +14,14 @@ https://www.bilibili.com/video/BV11U4y1u7xG
 
 - 创建你的工程文件夹
 
-
 - 将【Z_Motion_Field】文件夹解压到你的工程
 
-<img src="public/image-20211024102045485.png" alt="image-20211024102045485" style="zoom:80%;" />
-
 - 双击打开【Motion_Field.bat】
-
-<img src="public/image-20211024102119825.png" alt="image-20211024102119825" style="zoom: 80%;" />
 
 - 按下0键，部署工程。
   按下H键，查看帮助。
 
-<img src="public/image-20211024102234903.png" alt="image-20211024102234903" style="zoom: 67%;" />
-
+windows 22H2 以上版本，需要到终端中设置一下 ： 设置→启动→默认终端应用程序→Windows控制台主机
 
 
 ## ✨功能展示✨
